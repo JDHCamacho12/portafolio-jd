@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+/* Root Colors */
+:root{
+    --main-color: green;
+    --secundary-color: rgba(22, 106, 202, 0.616);
+    --text-color: rgb(236, 236, 236);
+    --bg-color:#222222;
+    --body-bg-color: #2d2d33;
+    --border-color: #303030;
+    
+}
